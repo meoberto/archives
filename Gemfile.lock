@@ -114,5 +114,8 @@ DEPENDENCIES
   standalone_migrations
   whenever
 
+RUBY VERSION
+   ruby 2.5.1p57
+
 BUNDLED WITH
-   1.13.3
+   1.16.3
